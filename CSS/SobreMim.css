@@ -1,0 +1,21 @@
+body{
+    background-image: url(../Imagens/fundo2.jpg);
+}
+h1{
+    color: rgb(138, 32, 73);
+    text-align: center;
+    font-size: 40px;
+}
+p{
+    color: rgb(235, 118, 182);
+    font-size: 20px;
+}
+img{
+    height: 200px;
+     width: 200px;
+     border-radius: 100px;
+}
+a {
+    color: rgb(107, 3, 102);
+    font-size: 20px;
+}

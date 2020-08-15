@@ -1,0 +1,27 @@
+body{
+    background-image:url(../Imagens/fundo1.jpg);
+}
+
+h1{
+    color: rgb(98, 26, 107);
+     font-size: 45px;
+    text-align: center;
+}
+
+
+.imagens {
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+  
+}
+.geral{
+   padding-left: 40%;
+  
+}
+figcaption{
+    color: rgb(100, 27, 90);
+    text-align: center;
+    font-size: 20px;
+    padding-right: 75%;
+}
